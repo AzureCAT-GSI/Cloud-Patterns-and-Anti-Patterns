@@ -15,7 +15,7 @@ Watch the [video TODO](https://gsiazurecoecontent.blob.core.windows.net/storage/
 * Focus on Design Patterns impacting the Quality Attributes of a cloud based solution
 * Provide proven practices for predictable results
 
-## Session Prerequisits
+## Session Prerequisites
 * TODO
 
 ## Azure Services Covered
