@@ -5,7 +5,7 @@ This guide demonstrates how a few simple code changes can significantly improve 
 #### Pre-Requisites
 This section lists the pre-requisites required for this demonstration.
 *	Azure subscription
-•	Visual Studio 2015 (should work in Visual Studio 2013 as well)
+•	Visual Studio 2015 (Visual Studio 2013 should workas well) with Azure SDK
 
 #### Setup
 Estimated time: 5 minutes
@@ -18,13 +18,18 @@ Estimated time: 5 minutes
   a.	Set Region to a region close to you.<br>
   b.	Set Replication to Locally Redundant.<br>
   c.	Click Create.<br>
+
   <img src="./media/image001.png" align="center"/>
+  
 6.	Open app.config.
 7.	Set the StorageConnectionString in <appSettings> to the connection string for your storage account.
 8.	Save the changes<br>
-  <img src="./media/image002.png" align="center"/>
+
+<img src="./media/image002.png" align="center"/>
+
 9.	Press Ctrl-F5 to build and run the solution.   Your output should look similar as shown.<br>
-  <img src="./media/image003.png" align="center"/>
+
+<img src="./media/image003.png" align="center"/>
  
 #### Demo Steps
 Estimated time: 7 minutes
