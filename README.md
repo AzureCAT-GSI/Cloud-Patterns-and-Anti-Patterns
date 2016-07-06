@@ -6,7 +6,9 @@ Download the [PowerPoint](./Cloud%20Patterns%20and%20Anti-Patterns.pptx?raw=1).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
-* [Storage Table Insert](./Demo%201%20-%20Storage%20Table%20Insert) [[demo script](.//Demo%201%20-%20Storage%20Table%20Insert/Readme.md)]
+* [Storage Table Insert](./Demo%201%20-%20Storage%20Table%20Insert)
+[[Demo script](./Demo%201%20-%20Storage%20Table%20Insert/Readme.md)]
+[[Source Code](./Demo%201%20-%20Storage%20Table%20Insert/TableStorage.Client)]
 
 ## Session objectives
 * Focus on Design Patterns impacting the Quality Attributes of a cloud based solution
