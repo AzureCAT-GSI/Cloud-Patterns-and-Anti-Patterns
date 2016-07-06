@@ -11,8 +11,8 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 [[Source Code](./Demo%201%20-%20Storage%20Table%20Insert/TableStorage.Client)]
 
 ## Session objectives
-* Focus on Design Patterns impacting the Quality Attributes of a cloud based solution
-* Disucss interesting use cases of solving problems in the cloud
+* Focus on Design Patterns impacting the Quality Attributes of cloud solutions
+* Discuss interesting use cases of solving problems in the cloud
 * Provide proven practices for predictable results
 * Discuss common pitfalls customers fall into
 
