@@ -9,6 +9,7 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 * [Storage Table Insert](./Demo%201%20-%20Storage%20Table%20Insert)
 [[Demo script](./Demo%201%20-%20Storage%20Table%20Insert/Readme.md)]
 [[Source Code](./Demo%201%20-%20Storage%20Table%20Insert/TableStorage.Client)]
+[[Video](https://azurecatgsicontent.blob.core.windows.net/cloud-patterns-and-anti-patterns/CloudPatternsAndAntiPatterns.mp4)]
 
 ## Session objectives
 * Focus on Design Patterns impacting the Quality Attributes of cloud solutions
