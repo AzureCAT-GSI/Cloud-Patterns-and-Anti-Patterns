@@ -1,7 +1,7 @@
 # Cloud Patterns and Anti-Patterns
 Building solutions designed to take advantage of the cloud’s scale capabilities requires a change in thinking from how you might have designed the same solutions on-premises.  This session highlights common patterns, such as queue-based communication between dependencies, and highlights anti-patterns that limit performance and scale.
 
-##Presentation
+## Presentation
 Download the [PowerPoint](./Cloud%20Patterns%20and%20Anti-Patterns.pptx?raw=1).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
